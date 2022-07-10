@@ -1,0 +1,122 @@
+body{
+	margin: 0;
+	background-color: #cccccc;
+}
+
+.topo{
+	float: left;
+	background-image: linear-gradient(#000000 , #000033);
+	background-repeat: no-repeat;
+	height: 120px;
+	width: 100%;
+	padding-bottom: 40px;
+}
+
+.texto{
+	padding-top: 160px;
+	width: 100%;
+	height: 870px;
+}
+
+.icon{
+	position: absolute;
+	margin-top: -180px;
+	margin-left: 1040px;
+	width: 300px;
+}
+
+.series{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	height: 990px;
+}
+
+.s1{
+	float: left;
+	width: 270px;
+	height: 375px;
+	margin-left: 1.5%;
+	margin-top: 1%;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: #000033;
+	background-image: url("img/maquina.jpg");
+	background-size: 100%;
+}
+
+.s2{
+	float: left;
+	width: 270px;
+	height: 375px;
+	margin-left: 1.5%;
+	margin-top: 1%;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: #000033;
+	background-image: url("img/mcgaiver.jpg");
+	background-size: 100%;
+}
+
+.s3{
+	float: left;
+	width: 280px;
+	height: 375px;
+	margin-left: 1.5%;
+	margin-top: 1%;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: #000033;
+	background-image: url("img/classe.jpg");
+	background-size: 100%;
+}
+
+.s4{
+	float: left;
+	width: 280px;
+	height: 375px;
+	margin-left: 1.5%;
+	margin-top: 1%;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: #000033;
+	background-image: url("img/aguia.jpeg");
+	background-size: 100%;
+}
+
+.s5{
+	float: left;
+	width: 280px;
+	height: 375px;
+	margin-left: 1.5%;
+	margin-top: 1%;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: #000033;
+	background-image: url("img/trovao.jpg");
+	background-size: 100%;
+}
+
+h1{
+	font-family: helvetica;
+	font-size: 70px;
+	color: #dddddd;
+	margin-left: 50px;
+	text-shadow: 0px 3px 10px black;
+}
+
+h2{
+	text-align: center;
+	color: #333333;
+	font-family: helvetica;
+}
+
+p{
+	text-indent: 40px;
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: justify;
+	font-size: 20px;
+	color: #333333;
+}
